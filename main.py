@@ -50,4 +50,4 @@ if num == v:
               print('Поздравляю вы выиграли :',win,' раз')
               continuation = input( 'Хотите сыграть еще раз? ')
 if continuation == answer[2] or continuation == answer[3]:
-    print('Спасибо за игру',player,'!')
+    print('Спасибо за игру',player)
